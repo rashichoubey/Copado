@@ -41,6 +41,8 @@
         <actionName>Clone</actionName>
         <formFactor>Small</formFactor>
         <type>Default</type>
+		
+		
     </actionOverrides>
     <actionOverrides>
         <actionName>Delete</actionName>
@@ -156,6 +158,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>Demo Object</label>
     <nameField>
+        
         <label>Demo Custom  Name</label>
         <type>Text</type>
     </nameField>
