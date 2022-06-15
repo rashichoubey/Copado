@@ -41,8 +41,6 @@
         <actionName>Clone</actionName>
         <formFactor>Small</formFactor>
         <type>Default</type>
-		
-		
     </actionOverrides>
     <actionOverrides>
         <actionName>Delete</actionName>
@@ -158,7 +156,6 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>Demo Object</label>
     <nameField>
-        
         <label>Demo Custom  Name</label>
         <type>Text</type>
     </nameField>
@@ -183,7 +180,7 @@
         <type>Email</type>
         <unique>false</unique>
     </fields>
-	 <fields>
+    <fields>
         <fullName>Field_Three__c</fullName>
         <externalId>false</externalId>
         <label>Field Three</label>
@@ -192,7 +189,7 @@
         <type>Email</type>
         <unique>false</unique>
     </fields>
-	<fields>
+    <fields>
         <fullName>Field_Four__c</fullName>
         <externalId>false</externalId>
         <label>Field Four</label>
